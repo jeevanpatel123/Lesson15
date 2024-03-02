@@ -11,5 +11,5 @@ parser.add_argument(
 
 args = parser.parse_args()
 
-message = f"Hello {args.name}."
+message = f"Hello {args.name}!"
 print(message)
